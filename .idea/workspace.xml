@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6aa7e7-286f-44be-b942-0af0636aeafe" name="Changes" comment="nuevos archivos" />
+    <list default="true" id="0b6aa7e7-286f-44be-b942-0af0636aeafe" name="Changes" comment="nuevo archivo 2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696121753956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nuevo archivo">
+      <created>1696121959569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696121959569</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nuevo archivo 2.0">
+      <created>1696122259492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696122259492</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +124,8 @@
     <MESSAGE value="creacion de la clase Biblioteca.java con sus atributos (nombreBiblioteca,direccion,listadoDeLibros) y con sus métodos (constructor, getters y setters)" />
     <MESSAGE value="creacion de la clase Libro.java con sus atributos (nombre,autor,editorial) y con sus métodos (constructor, getters y setters)" />
     <MESSAGE value="nuevos archivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="nuevos archivos" />
+    <MESSAGE value="nuevo archivo" />
+    <MESSAGE value="nuevo archivo 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevo archivo 2.0" />
   </component>
 </project>
