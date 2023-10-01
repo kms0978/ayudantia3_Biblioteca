@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6aa7e7-286f-44be-b942-0af0636aeafe" name="Changes" comment="" />
+    <list default="true" id="0b6aa7e7-286f-44be-b942-0af0636aeafe" name="Changes" comment="nuevos archivos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696121366687</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nuevos archivos">
+      <created>1696121753956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696121753956</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +106,7 @@
     <MESSAGE value="inicialización de la nueva rama &quot;codigo&quot;" />
     <MESSAGE value="creacion de la clase Biblioteca.java con sus atributos (nombreBiblioteca,direccion,listadoDeLibros) y con sus métodos (constructor, getters y setters)" />
     <MESSAGE value="creacion de la clase Libro.java con sus atributos (nombre,autor,editorial) y con sus métodos (constructor, getters y setters)" />
-    <option name="LAST_COMMIT_MESSAGE" value="creacion de la clase Libro.java con sus atributos (nombre,autor,editorial) y con sus métodos (constructor, getters y setters)" />
+    <MESSAGE value="nuevos archivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevos archivos" />
   </component>
 </project>
